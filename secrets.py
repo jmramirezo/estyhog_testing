@@ -1,1 +1,1 @@
-app_secret = "acaunsecretodadfsdfsadasddasdasdadsAAAAABBBssd"
+app_secret = "aARCOTANGENTEsdadsAAAAABBBssd"
