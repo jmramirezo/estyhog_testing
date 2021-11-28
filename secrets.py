@@ -1,1 +1,1 @@
-app_secret = "thisisnotasecretshhhhdwedddssdsad"
+app_secret = "thisisnotasecretshhhhdwedddssdsadsss"
