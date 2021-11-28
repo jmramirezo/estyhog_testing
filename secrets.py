@@ -1,3 +1,5 @@
 
 
 aws_key = "AKIAIOSFODNN1EXAMPLO"
+
+aws_key1 = "AKIAIOSFODNN1EXAMPL1"
