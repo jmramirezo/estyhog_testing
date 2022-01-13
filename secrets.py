@@ -17,3 +17,6 @@ db_secret = "thisisasupersecretdbpasswordshhh"
 
 aws_key = "AKIAIOSFODNN2EXAMPL2"
 
+
+secret_testing = "thisisasupersecretdbpasswordshhh"
+
